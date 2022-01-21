@@ -1,0 +1,12 @@
+/bin/
+.metadata/
+dont track/
+
+bin/*
+*.class
+.project
+.classpath
+.settings
+
+Test/*
+sample/
