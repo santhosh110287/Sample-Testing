@@ -5,7 +5,10 @@ public class AsciiGenerator {
 		for (int i = 0; i < 128; i++) {
 			System.out.println(i + " " +(char) i);	
 		}
-
+		System.out.println("End of program");
+		System.out.println("Bengaluru");
+		
+		
 	}
 
 }
