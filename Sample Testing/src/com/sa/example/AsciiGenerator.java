@@ -7,7 +7,7 @@ public class AsciiGenerator {
 		}
 		System.out.println("End of program");
 		System.out.println("Bengaluru");
-		System.out.println("Chitradurga");
+	
 		
 		
 	}
